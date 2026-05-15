@@ -1,0 +1,62 @@
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# ============================================================
+# Virtual environments
+# ============================================================
+venv/
+env/
+.env
+.venv/
+
+# ============================================================
+# Jupyter / IPython
+# ============================================================
+.ipynb_checkpoints/
+
+# ============================================================
+# Trained model weights (large binary files)
+# Download from Google Drive — see README for link
+# ============================================================
+models/*.keras
+models/word2vec.model
+models/word2vec.model.syn1neg.npy
+models/word2vec.model.wv.vectors.npy
+
+# Tokenizer (re-generate or download with model weights)
+models/tokenizer.pkl
+
+# ============================================================
+# Dataset (download from Kaggle — see README for link)
+# ============================================================
+data/
+*.csv
+
+# ============================================================
+# Screenshots captured during preprocessing
+# ============================================================
+*.png
+!assets/*.png
+
+# ============================================================
+# Archive (internal dev files, not for public repo)
+# ============================================================
+_archive/
+
+# ============================================================
+# Misc
+# ============================================================
+temp_screenshot.png
+*.log
+.DS_Store
+Thumbs.db
+results/
