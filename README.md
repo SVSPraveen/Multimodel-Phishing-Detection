@@ -8,11 +8,11 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13%2B-orange?style=for-the-badge&logo=tensorflow)](https://tensorflow.org)
 [![Flask](https://img.shields.io/badge/Flask-3.0%2B-black?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Kaggle Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/datasets/svspraveen/multimodal-phishing-detection)
+[![Kaggle Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/datasets/svspraveen/multimodal-phishing-detection-dataset)
 
 <br/>
 
-*Developed by [SVS Praveen S](https://www.linkedin.com/in/svs-praveen-s) · Academic Project*
+*Developed by [SVS Praveen](https://www.linkedin.com/in/svs-praveen-s) · Academic Project*
 
 </div>
 
@@ -138,7 +138,7 @@ pip install -r requirements.txt
 ### 3. Download the Dataset
 Download the dataset from Kaggle and place it in the `data/` folder:
 
-> 📦 **[Multimodal Phishing Detection Dataset on Kaggle](https://www.kaggle.com/datasets/svspraveen/multimodal-phishing-detection)**
+> 📦 **[Multimodal Phishing Detection Dataset on Kaggle](https://www.kaggle.com/datasets/svspraveen/multimodal-phishing-detection-dataset)**
 
 ```
 data/
@@ -192,7 +192,7 @@ This will automatically:
 | **Sources** | PhishTank, URLhaus, Tranco Top-1M |
 | **Format** | CSV with URL and label columns |
 
-> 📦 **[Download Dataset on Kaggle](https://www.kaggle.com/datasets/svspraveen/multimodal-phishing-detection)**
+> 📦 **[Download Dataset on Kaggle](https://www.kaggle.com/datasets/svspraveen/multimodal-phishing-detection-dataset)**
 
 ---
 
@@ -240,7 +240,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**SVS Praveen S**
+**SVS Praveen**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/svs-praveen-s)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/SVSPraveen)
