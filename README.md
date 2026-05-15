@@ -9,6 +9,7 @@
 [![Flask](https://img.shields.io/badge/Flask-3.0%2B-black?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Kaggle Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/datasets/svspraveen/multimodal-phishing-detection-dataset)
+[![Kaggle Model](https://img.shields.io/badge/Model%20Weights-Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/models/svspraveen/multimodal-phishing-detection)
 
 <br/>
 
@@ -146,9 +147,9 @@ data/
 ```
 
 ### 4. Download Pre-trained Model Weights
-The trained model weights are not stored in this repo due to their size (~200MB).
+The trained model weights are hosted on Kaggle Models (~200MB) and are **not stored in this repo**.
 
-> ⬇️ **[Download `fusion_model.keras` and `tokenizer.pkl`]** *(Google Drive link — coming soon)*
+> ⬇️ **[Download `fusion_model.keras` + `tokenizer.pkl` on Kaggle Models](https://www.kaggle.com/models/svspraveen/multimodal-phishing-detection)**
 
 Place the downloaded files in the `models/` directory:
 ```
